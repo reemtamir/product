@@ -1,0 +1,22 @@
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.footer {
+  height: 50px;
+  text-align: center;
+}
+
+.footer img {
+  height: 30px;
+  margin-left: 20px;
+}
+.copyright {
+  color: #4719b3;
+  font-size: 1.5rem;
+  text-align: center;
+}
